@@ -25,7 +25,7 @@ Para poder descargar los datos desde Kaggle, necesitas una API key de Kaggle.
 3. Coloca el archivo `kaggle.json` en la carpeta `~/.kaggle/` (en sistemas UNIX como Linux/Mac) o en `C:\Users\TU_USUARIO\.kaggle\` (en Windows).
 4. Asegúrate de que la carpeta tenga los permisos adecuados (`chmod 600` en UNIX).
 
-Alternativa manual: navega a la URL https://www.kaggle.com/competitions/kkbox-music-recommendation-challenge/data, descarga y descomprime los archivos en una carpeta `/kaggle_data` en la misma ubicación que el notebook.
+Alternativa manual: navega a la URL https://www.kaggle.com/competitions/titanic, descarga y descomprime los archivos en una carpeta `/kaggle_data` en la misma ubicación que el notebook.
 
 ## ⚙️ Instalación
 
