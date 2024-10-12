@@ -2,7 +2,7 @@
 
 # Titanic Challenge
 
-Welcome to the **Titanic Prediction Challenge**! This project aims to develop a model that predicts whether a passenger will survive the Titanic Disaster.
+¡Bienvenido al **Desafío de predicción del Titanic**! Este proyecto tiene como objetivo desarrollar un modelo que prediga si un pasajero sobrevivirá al desastre del Titanic.
 
 ## 📋 Índice
 
